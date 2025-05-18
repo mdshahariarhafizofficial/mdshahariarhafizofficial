@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **WordPress**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **mdshahariarhafiz2021@gmail.com**
 
