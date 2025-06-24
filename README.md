@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkOGE0ZTQ4MmFkNzhmODgwMTM0YzkxZTllZWRhMGNmODVhMTlhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif">
 
 
-- <img align='left' src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json?raw=true" width="25">I’m currently working on 
+- <img align='left' src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json" width="25">I’m currently working on 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
