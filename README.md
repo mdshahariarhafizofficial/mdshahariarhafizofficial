@@ -6,7 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkOGE0ZTQ4MmFkNzhmODgwMTM0YzkxZTllZWRhMGNmODVhMTlhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif">
 
-### 💫 About Me
+###
+
+💫 About Me
 
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Laptop.gif?term=work&page=1&position=2&origin=search&related_id=17438221" width="25">I’m currently working on 
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
