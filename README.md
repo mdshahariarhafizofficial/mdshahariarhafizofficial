@@ -1,17 +1,16 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi👋,+I'm+Md.+Shahariar+Hafiz;A+MERN+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
 <!--- <h3 align="center">Professional web designer and WordPress expert</h3> --->
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkOGE0ZTQ4MmFkNzhmODgwMTM0YzkxZTllZWRhMGNmODVhMTlhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahariarhafizofficial" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahariarhafizofficial" alt="mdshahariarhafizofficial" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **mdshahariarhafiz2021@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkOGE0ZTQ4MmFkNzhmODgwMTM0YzkxZTllZWRhMGNmODVhMTlhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahariarhafizofficial" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahariarhafizofficial" alt="mdshahariarhafizofficial" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
