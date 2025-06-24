@@ -35,8 +35,8 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
 
-![](https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&color=FFA500&style=plastic&label=Profile+Views)
-![](https://visitor-badge.glitch.me/badge?page_id=mdshahariarhafizofficial.mdshahariarhafizofficial07&right_color=orange&left_text=Visits)
+![](https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&color=yeloow&style=plastic&label=Profile+Views)
+![](https://visitor-badge.glitch.me/badge?page_id=mdshahariarhafizofficial.mdshahariarhafizofficial07&right_color=red&left_text=Visits)
 [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-Pending-red)](https://github.com/mdshahariarhafizofficial) 
 <a href="https://github.com/mdshahariarhafizofficial">
     <img src="https://img.shields.io/github/followers/UjjwalSaini07?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
