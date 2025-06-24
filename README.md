@@ -65,7 +65,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,npm,materialui,tailwind,vite,mongodb,next,postman,java,py,wordpress,vercel,netlify,firebase,git,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,npm,materialui,tailwind,vite,mongodb,next,postman,java,py,wordpress,vercel,netlify,firebase,git,github,figma,vscode" />
 </a>
 
 </div>
