@@ -42,6 +42,8 @@
     <img src="https://img.shields.io/github/followers/mdshahariarhafizofficial?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
 
+<br>
+
 
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
 <p align="center">
@@ -63,7 +65,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,materialui,tailwind,vite,mongodb,mysql,next,postman,java,jwt,vercel,netlify,firebase,git,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,materialui,tailwind,vite,mongodb,mysql,next,postman,java,vercel,netlify,firebase,git,bash,linux&perline=11" />
 </a>
 
 </div>
