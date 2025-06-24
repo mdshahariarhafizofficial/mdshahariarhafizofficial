@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Md.+Shahariar+Hafiz;A+MERN+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
 
 <!--- <h3 align="center">Professional web designer and WordPress expert</h3> --->
-<div style="border-bottom: 1px solid #ddd;">
+<div>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkOGE0ZTQ4MmFkNzhmODgwMTM0YzkxZTllZWRhMGNmODVhMTlhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif">
   
-💫 About Me
+##💫 About Me
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Laptop.gif?term=work&page=1&position=2&origin=search&related_id=17438221" width="25">I’m currently working on 
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
