@@ -74,9 +74,25 @@
 </div>
 
 <br><br>
+### ⚙️ GitHub Analytics
+<div align="center">
+  <a href="https://github.com/ayush-848">
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush-848&theme=midnight_purple&utcOffset=8" alt="Ayush Deb github stats" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-848&theme=midnight_purple" alt="Ayush Deb github stats" />
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-848&theme=midnight_purple" />
+</a>
+</br>
+  <summary>
+   <span style="cursor: pointer; font-size: 14px;">
+   📈 📈 More Analytics 📈 📈 
+    </br>
+    </span>
+  </summary>
+  </br>
+  <img height="150em" src="https://cheesits456-readme-stats.vercel.app/api?username=ayush-848&show_icons=true&count_private=true&theme=midnight-purple" alt="ayush-848" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-848&theme=midnight-purple" alt="ayush-848" />
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-848&theme=juicyfresh&no-bg=true&no-frame=true" alt="ayush-848" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshahariarhafizofficial&show_icons=true&locale=en&layout=compact" alt="mdshahariarhafizofficial" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdshahariarhafizofficial&show_icons=true&locale=en" alt="mdshahariarhafizofficial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahariarhafizofficial&" alt="mdshahariarhafizofficial" /></p>
+</div>
