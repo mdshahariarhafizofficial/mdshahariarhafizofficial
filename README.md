@@ -46,7 +46,7 @@
 
 
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
-<p align="center">
+<div align="center">
 <a href="mailto:shahariar.works@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -57,15 +57,16 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</p>
+</div>
 
+<br>
 
 ## 💻 Tech Stack:
 
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,materialui,tailwind,vite,mongodb,mysql,next,postman,java,vercel,netlify,firebase,git,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,materialui,tailwind,vite,mongodb,next,postman,java,vercel,netlify,firebase,git,bash,npm," />
 </a>
 
 </div>
