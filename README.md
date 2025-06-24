@@ -65,12 +65,12 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,materialui,tailwind,vite,mongodb,next,postman,java,vercel,netlify,firebase,git,bash,npm," />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,npm,materialui,tailwind,vite,mongodb,next,postman,java,py,wordpress,vercel,netlify,firebase,git,figma,vscode" />
 </a>
 
 </div>
 
-<br>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshahariarhafizofficial&show_icons=true&locale=en&layout=compact" alt="mdshahariarhafizofficial" /></p>
 
