@@ -6,7 +6,8 @@
 
 
 
-<div style="border:1px solid #ddd; padding:10px; border-radius:6px;">
+<div>
+###
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkOGE0ZTQ4MmFkNzhmODgwMTM0YzkxZTllZWRhMGNmODVhMTlhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif">
   
 💫 About Me
