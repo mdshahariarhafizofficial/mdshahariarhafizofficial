@@ -49,19 +49,15 @@
 <a href="https://fb.com/mdshahariarhafizofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahariarhafiz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahariarhafiz" height="30" width="40" /></a>
 
-<a href="mailto:ayushdeb848@gmail.com">
+<a href="mailto:https://mail.google.com/mail/?view=cm&to=shahariar.works@gmail.com&su=Feedback&body=Hello,%20I%20would%20like%20to%20contact%20you.">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://dev.to/ayush848">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-</a><a href="https://medium.com/@ayushdeb848">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a><a href="">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-</a><a href="https://discord.com/users/1016947218130931792">
+</a><a href="https://discord.com/users/1111635073326923816">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/ayush-deb/">
+<a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
