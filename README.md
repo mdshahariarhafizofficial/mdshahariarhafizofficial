@@ -25,6 +25,8 @@
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27">How to reach me
 [![Gmail Badge](https://img.shields.io/badge/-ShahariarHafiz-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:shahariar.works@gmail.com?subject=Feedback&body=Hello,%20I%20would%20like%20to%20contact%20you.)
+[![Gmail Badge](https://img.shields.io/badge/-ShahariarHafiz-c14438?style=plastic&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=shahariar.works@gmail.com&su=Feedback&body=Hello,%20I%20would%20like%20to%20contact%20you.)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/GamingConsole.gif?raw=true" width="30">Interested In
   [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)](#)
