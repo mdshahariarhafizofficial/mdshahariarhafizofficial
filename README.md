@@ -39,7 +39,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mdshahariarhafizofficial.mdshahariarhafizofficial07&right_color=yellow&left_text=Visits)
 [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-Pending-red)](https://github.com/mdshahariarhafizofficial) 
 <a href="https://github.com/mdshahariarhafizofficial">
-    <img src="https://img.shields.io/github/followers/UjjwalSaini07?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
+    <img src="https://img.shields.io/github/followers/mdshahariarhafizofficial?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahariarhafizofficial" /> </p>
