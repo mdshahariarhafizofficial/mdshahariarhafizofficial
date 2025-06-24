@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Md.+Shahariar+Hafiz;A+MERN+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
 <!--- <h3 align="center">Professional web designer and WordPress expert</h3> --->
-<hr style= 'margin 0 !important'>
-<div>
+*<div>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkOGE0ZTQ4MmFkNzhmODgwMTM0YzkxZTllZWRhMGNmODVhMTlhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif">
   
 💫 About Me
