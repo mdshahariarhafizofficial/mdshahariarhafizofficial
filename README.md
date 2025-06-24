@@ -45,16 +45,10 @@
 
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
 <p align="left">
-<a href="https://discord.com/users/1111635073326923816" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg" alt="shahariarhafiz" height="35" width="45" /></a>  
-<a href="https://fb.com/mdshahariarhafizofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahariarhafiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahariarhafiz" height="30" width="40" /></a>
-
-<a href="mailto:https://mail.google.com/mail/?view=cm&to=shahariar.works@gmail.com&su=Feedback&body=Hello,%20I%20would%20like%20to%20contact%20you.">
+<a href="mailto:mail.google.com/mail/?view=cm&to=shahariar.works@gmail.com&su=Feedback&body=Hello,%20I%20would%20like%20to%20contact%20you.">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://dev.to/ayush848">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-</a><a href="https://discord.com/users/1111635073326923816">
+<a href="https://discord.com/users/1111635073326923816">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/">
