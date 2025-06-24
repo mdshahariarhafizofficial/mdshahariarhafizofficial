@@ -47,7 +47,7 @@
 <p align="left">
 <a href="https://fb.com/mdshahariarhafizofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahariarhafiz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahariarhafiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.com/CLorant/readme-social-icons/blob/main/large/currentColor/discord.svg)" alt="shahariarhafiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/currentColor/discord.svg" alt="shahariarhafiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
