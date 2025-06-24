@@ -42,7 +42,6 @@
     <img src="https://img.shields.io/github/followers/mdshahariarhafizofficial?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahariarhafizofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahariarhafizofficial" alt="mdshahariarhafizofficial" /></a> </p>
 
