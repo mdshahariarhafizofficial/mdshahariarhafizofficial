@@ -47,6 +47,9 @@
 
 <div align="center">
 
+  <a href="https://discord.com/users/1111635073326923816" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" style="margin: 0 20px;" />
+  </a>
 
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" style="margin: 0 20px;" />
