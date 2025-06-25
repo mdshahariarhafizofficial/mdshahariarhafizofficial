@@ -37,7 +37,7 @@ MERN Stack Developer dedicated to crafting clean and efficient web solutions.
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
 </div>
 
-![](https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&color=FFA500&style=plastic&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&color=purple&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=mdshahariarhafizofficial.mdshahariarhafizofficial07&right_color=purplr&left_text=Visits)
 [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-Pending-red)](https://github.com/mdshahariarhafizofficial) 
 <a href="https://github.com/mdshahariarhafizofficial">
