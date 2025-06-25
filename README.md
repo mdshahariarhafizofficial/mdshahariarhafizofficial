@@ -89,4 +89,9 @@
 
 <div align="center">
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahariarhafizofficial&theme=juicyfresh&no-bg=true&no-frame=true" alt="mdshahariarhafizofficial" /></a> </p>
+</div> <br>
+
+<div align="center">
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshahariarhafizofficial&bg_color=000000&color=ffd500&line=fff700&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+
