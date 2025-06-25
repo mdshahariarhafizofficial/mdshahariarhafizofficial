@@ -74,18 +74,16 @@
 </div>
 
 <br><br>
-## ⚙️ GitHub Analytics
-<div align="center">
-  <a href="https://github.com/mdshahariarhafizofficial">
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdshahariarhafizofficial&theme=midnight_purple" alt="mdshahariarhafizofficial github stats" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdshahariarhafizofficial&theme=midnight_purple&utcOffset=8" alt="mdshahariarhafizofficial github stats" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdshahariarhafizofficial&theme=midnight_purple" alt="mdshahariarhafizofficial github stats" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdshahariarhafizofficial&theme=midnight_purple" alt="mdshahariarhafizofficial github stats" />
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdshahariarhafizofficial&theme=midnight_purple" />
-</a>
-  </br>
-  <img height="150em" src="https://cheesits456-readme-stats.vercel.app/api?username=mdshahariarhafizofficial&show_icons=true&count_private=true&theme=midnight-purple" alt="mdshahariarhafizofficial" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahariarhafizofficial&theme=midnight-purple" alt="mdshahariarhafizofficial" />
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahariarhafizofficial&theme=juicyfresh&no-bg=true&no-frame=true" alt="mdshahariarhafizofficial" /></a> </p>
+## 📊 GitHub Stats:
 
-</div>
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asymtode712&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asymtode712&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asymtode712&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asymtode712&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asymtode712&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Asymtode712&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=Asymtode712&theme=radical">
+
+</div><br>
