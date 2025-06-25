@@ -45,19 +45,15 @@
 
 ## Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50">
 <div align="center">
-<a href="#" target="_blank">
+<a href="mailto:shahariar.works@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="mailto:shahariar.works@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://discord.com/users/1111635073326923816" target="_blank">
+<img src="https://skillicons.dev/icons?i=discord" />
 </a>
-<a href="https://discord.com/users/1111635073326923816">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<a href="#" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://www.linkedin.com/in/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
 </div>
 
 <br>
