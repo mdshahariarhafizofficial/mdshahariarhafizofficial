@@ -92,6 +92,5 @@
 # 🏆 Trophies
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=mdshahariarhafizofficial&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-848&theme=juicyfresh&no-bg=true&no-frame=true" alt="ayush-848" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahariarhafizofficial&theme=juicyfresh&no-bg=true&no-frame=true" alt="mdshahariarhafizofficial" /></a> </p>
 </div>
