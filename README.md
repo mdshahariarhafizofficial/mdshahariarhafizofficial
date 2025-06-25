@@ -89,7 +89,7 @@
 
 <div align="center">
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshahariarhafizofficial&theme=juicyfresh&no-bg=true&no-frame=true" alt="mdshahariarhafizofficial" /></a> </p>
-</div> <br>
+</div>
 
 ## <div></div>
 
