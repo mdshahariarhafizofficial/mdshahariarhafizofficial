@@ -92,5 +92,5 @@
 # 🏆 Trophies
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=mdshahariarhafizofficial&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4">
+<img src="https://github-trophies.vercel.app/?username=mdshahariarhafizofficial&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4">
 </div>
