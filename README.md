@@ -8,7 +8,8 @@
   
 ### 💫About Me
 
-<h2>I am a passionate MERN Stack Developer from Bangladesh. Currently exploring Next.js and building web applications.</h2>
+I am a passionate MERN Stack Developer from Bangladesh. Currently exploring Next.js and building web applications.
+
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Laptop.gif?term=work&page=1&position=2&origin=search&related_id=17438221" width="25">I’m currently working on 
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
