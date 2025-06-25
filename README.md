@@ -87,3 +87,10 @@
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=mdshahariarhafizofficial&theme=highcontrast">
 
 </div><br>
+
+
+# 🏆 Trophies
+
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=mdshahariarhafizofficial&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4">
+</div>
