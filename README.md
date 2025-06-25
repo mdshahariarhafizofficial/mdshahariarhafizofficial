@@ -47,17 +47,18 @@
 
 <p align="center">
   <a href="mailto:shahariar.works@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" style="margin: 0 15px;" alt="Gmail"/>
   </a>
 
-  <a href="https://discord.com/users/1111635073326923816">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" style="margin: 0 10px;" />
+  <a href="https://discord.com/users/1111635073326923816" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" style="margin: 0 15px;" alt="Discord"/>
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin-username">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin: 0 10px;" />
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin: 0 15px;" alt="LinkedIn"/>
   </a>
 </p>
+
 
 
 
