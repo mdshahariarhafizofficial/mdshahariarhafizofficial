@@ -33,7 +33,7 @@ MERN Stack Developer dedicated to crafting clean and efficient web solutions.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Laptop.gif" width="24">Projects are available at
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/mdshahariarhafizofficial)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://shahariar-hafiz.netlify.app/)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
 </div>
 
