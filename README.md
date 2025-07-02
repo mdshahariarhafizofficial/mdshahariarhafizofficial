@@ -63,7 +63,7 @@ MERN Stack Developer dedicated to crafting clean and efficient web solutions.
   </a>
 
   <a href="https://wa.me/01748630374" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" style="margin: 0 20px;" />
+    <img src="https://skills.syvixor.com/api/icons?i=whatsapp" style="margin: 0 20px;" />
   </a>
 
 </div>
