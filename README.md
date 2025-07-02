@@ -62,6 +62,10 @@ MERN Stack Developer dedicated to crafting clean and efficient web solutions.
     <img src="https://skillicons.dev/icons?i=gmail" style="margin: 0 20px;" />
   </a>
 
+  <a href="https://wa.me/01748630374" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" style="margin: 0 20px;" />
+  </a>
+
 </div>
 
 <br>
