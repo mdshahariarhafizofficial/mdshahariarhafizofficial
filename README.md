@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&color=green&style=plastic&label=Profile+Views)
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Md.+Shahariar+Hafiz;A+MERN+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
@@ -37,7 +38,7 @@ MERN Stack Developer dedicated to crafting clean and efficient web solutions.
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
 </div>
 
-![](https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&color=green&style=plastic&label=Profile+Views)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=mdshahariarhafizofficial.mdshahariarhafizofficial07&right_color=yellow&left_text=Visits)
 [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-Pending-red)](https://github.com/mdshahariarhafizofficial) 
 <a href="https://github.com/mdshahariarhafizofficial">
