@@ -77,7 +77,7 @@ MERN Stack Developer dedicated to crafting clean and efficient web solutions.
 
 <a href="#" target="_blank">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,npm,materialui,tailwind,vite,mongodb,next,postman,java,py,wordpress,vercel,netlify,firebase,git,github,figma,vscode" /> -->
-<img src="https://skills.syvixor.com/api/icons?i=html5,css3,javascript,bootstrap,react,nodejs,express,npm,materialui,tailwind,vite,mongodb,next,postman,java,py,wordpress,vercel,netlify,firebase,jwt,git,github,figma,vscode" />
+<img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript,bootstrap,react,nodejs,express,npm,materialui,tailwind,vite,mongodb,nextjs,postman,java,python,wordpress,vercel,netlify,firebase,jwt,git,github,figma,vscode" />
 </a>
 
 </div>
