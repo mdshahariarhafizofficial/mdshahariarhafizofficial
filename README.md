@@ -55,7 +55,7 @@ MERN Stack Developer dedicated to crafting clean and efficient web solutions.
     <img src="https://skillicons.dev/icons?i=discord" style="margin: 0 20px;" />
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://linkedin.com/in/devshahariarhafiz" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" style="margin: 0 20px;" />
   </a>
 
