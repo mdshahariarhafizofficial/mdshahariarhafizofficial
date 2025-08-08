@@ -5,8 +5,9 @@
 
 <!--- <h3 align="center">Professional web designer and WordPress expert</h3> --->
 <div>
-
+<p align="right">
 <a align="right" href="https://app.daily.dev/mdshahariarhafizofficial"><img src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=o89" width="256" alt="Md. Shahariar Hafiz's Dev Card"/></a>  
+</p>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkOGE0ZTQ4MmFkNzhmODgwMTM0YzkxZTllZWRhMGNmODVhMTlhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif"> -->
   
