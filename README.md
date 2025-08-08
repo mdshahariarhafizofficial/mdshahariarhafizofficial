@@ -3,71 +3,45 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Md.+Shahariar+Hafiz;A+MERN+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
 
-<!--- <h3 align="center">Professional web designer and WordPress expert</h3> --->
-<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
+<!-- DevCard Right Side -->
+<img align="right" src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=o89" width="300" alt="Md. Shahariar Hafiz's Dev Card"/>
 
-  <!-- About Me Section -->
-  <div style="flex: 1; min-width: 300px;">
+### 💫 About Me
 
-    <h3>💫 About Me</h3>
+MERN Stack Developer dedicated to crafting clean and efficient web solutions.
 
-    <p>MERN Stack Developer dedicated to crafting clean and efficient web solutions.</p>
+- 💻 I’m currently working on  
+  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000)
 
-    <ul>
-      <li>💻 I’m currently working on <br/>
-        <img src="https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react"/>
-        <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000"/>
-      </li>
-      <li>👀 I’m currently learning <br/>
-        <img src="https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react"/>
-        <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000"/>
-      </li>
-      <li>🛠️ I work using <br/>
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github"/>
-        <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git"/>
-        <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code"/>
-      </li>
-      <li>🤝 I’m looking for help in <br/>
-        <a href="https://leetcode.com/u/UjjwalSaini07/">
-          <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode"/>
-        </a>
-        <img src="https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js"/>
-      </li>
-      <li>💬 Ask me about <br/>
-        <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff"/>
-        <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3"/>
-        <img src="https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react"/>
-      </li>
-      <li>📫 How to reach me <br/>
-        <a href="mailto:shahariar.works@gmail.com">
-          <img src="https://img.shields.io/badge/-ShahariarHafiz-c14438?style=plastic&logo=Gmail&logoColor=white"/>
-        </a>
-        <a href="https://www.linkedin.com/in/">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
-        </a>
-      </li>
-      <li>🌐 Projects <br/>
-        <a href="https://github.com/mdshahariarhafizofficial">
-          <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://shahariar-hafiz.netlify.app/">
-          <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139"/>
-        </a>
-      </li>
-    </ul>
+- 👀 I’m currently learning  
+  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000)
 
-    <p>👍 Let's connect and collaborate on exciting projects!</p>
+- 🛠️ I work using  
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)  
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)  
+  ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
 
-  </div>
+- 🤝 I’m looking for help in  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode)](https://leetcode.com/u/UjjwalSaini07/)  
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
 
-  <!-- DevCard Section -->
-  <div style="margin-left: 20px;">
-    <a href="https://app.daily.dev/mdshahariarhafizofficial">
-      <img src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=o89" width="300" alt="Md. Shahariar Hafiz's Dev Card"/>
-    </a>
-  </div>
-  
-  </div>
+- 💬 Ask me about  
+  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)  
+  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)  
+  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+
+- 📫 How to reach me  
+  [![Gmail Badge](https://img.shields.io/badge/-ShahariarHafiz-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:shahariar.works@gmail.com)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+
+- 🌐 Projects  
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/mdshahariarhafizofficial)  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://shahariar-hafiz.netlify.app/)
+
+- 👍 Let's connect and collaborate on exciting projects!
+
 
 
 
