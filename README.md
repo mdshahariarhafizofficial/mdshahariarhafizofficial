@@ -6,41 +6,34 @@
 <!-- DevCard Right Side -->
 <img align="right" src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=o89" width="300" alt="Md. Shahariar Hafiz's Dev Card"/>
 
-### 💫 About Me
+### 💫About Me
 
 MERN Stack Developer dedicated to crafting clean and efficient web solutions.
 
-- 💻 I’m currently working on  
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000)
-
-- 👀 I’m currently learning  
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000)
-
-- 🛠️ I work using  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)  
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)  
-  ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
-
-- 🤝 I’m looking for help in  
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode)](https://leetcode.com/u/UjjwalSaini07/)  
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
-
-- 💬 Ask me about  
-  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)  
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-
-- 📫 How to reach me  
-  [![Gmail Badge](https://img.shields.io/badge/-ShahariarHafiz-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:shahariar.works@gmail.com)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-
-- 🌐 Projects  
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/mdshahariarhafizofficial)  
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Laptop.gif?term=work&page=1&position=2&origin=search&related_id=17438221" width="25">I’m currently working on 
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_EyeFlikiring.gif" width="25">I’m currently learning 
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=plastic&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_AngerVolcano.gif" width="25">I work using 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=plastic&logo=visual-studio-code)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="36">I’m looking for help in 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/UjjwalSaini07/)
+![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ShowingAnger.gif" width="24">Ask me about 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Msg.gif" width="27">How to reach me
+[![Gmail Badge](https://img.shields.io/badge/-ShahariarHafiz-c14438?style=plastic&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=shahariar.works@gmail.com&su=Feedback&body=Hello,%20I%20would%20like%20to%20contact%20you.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_Laptop.gif" width="24">Projects are available at
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/mdshahariarhafizofficial)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://shahariar-hafiz.netlify.app/)
-
-- 👍 Let's connect and collaborate on exciting projects!
+- <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
 
 
 
