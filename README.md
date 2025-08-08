@@ -4,7 +4,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Md.+Shahariar+Hafiz;A+MERN+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
 
 <!-- DevCard Right Side -->
-<img align="right" src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=o89" width="200" alt="Md. Shahariar Hafiz's Dev Card"/>
+<img align="right" src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=o89" width="250" alt="Md. Shahariar Hafiz's Dev Card"/>
 
 ### 💫About Me
 
