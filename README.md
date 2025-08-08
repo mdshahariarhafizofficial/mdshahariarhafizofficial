@@ -4,7 +4,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Md.+Shahariar+Hafiz;A+MERN+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
 
 <!--- <h3 align="center">Professional web designer and WordPress expert</h3> --->
-<div>
 <p align="right">
 <a align="right" href="https://app.daily.dev/mdshahariarhafizofficial"><img src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=o89" width="256" alt="Md. Shahariar Hafiz's Dev Card"/></a>  
 </p>
@@ -39,7 +38,6 @@ MERN Stack Developer dedicated to crafting clean and efficient web solutions.
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/mdshahariarhafizofficial)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://shahariar-hafiz.netlify.app/)
 - <img align='left' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_ThumbUp.gif" width="24"> Let's connect and collaborate on exciting projects!
-</div>
 
 
 
