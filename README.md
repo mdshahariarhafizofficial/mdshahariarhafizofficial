@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&color=blue&style=plastic&label=Profile+Views)
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Md.+Shahariar+Hafiz;A+MERN+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=600&color=FFA500&center=true&vCenter=true&width=1000&height=80&lines=Hi+👋,+I'm+Md.+Shahariar+Hafiz;A+MERN+STACK+WEB+DEVELOPER)](https://git.io/typing-svg)
 
 <!-- DevCard Right Side -->
 <!-- <a href="https://app.daily.dev/mdshahariarhafizofficial"><img align="right" src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=puy" width="280" alt="Md. Shahariar Hafiz's Dev Card"/></a> -->
