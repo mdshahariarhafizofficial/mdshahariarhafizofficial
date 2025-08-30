@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&color=F59E0B&style=plastic&label=Profile+Views)
 ![](https://visitor-badge.glitch.me/badge?page_id=mdshahariarhafizofficial.mdshahariarhafizofficial07&right_color=yellow&left_text=Visits)
 [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-Pending-red)](https://github.com/mdshahariarhafizofficial) 
+<a href="https://github.com/mdshahariarhafizofficial">
+    <img src="https://img.shields.io/github/followers/mdshahariarhafizofficial?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
+</a>
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
@@ -45,10 +48,11 @@ I believe in writing clean, maintainable code and creating digital experiences t
 
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=mdshahariarhafizofficial.mdshahariarhafizofficial07&right_color=yellow&left_text=Visits)
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-Pending-red)](https://github.com/mdshahariarhafizofficial) -->
-<a href="https://github.com/mdshahariarhafizofficial">
+[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-Pending-red)](https://github.com/mdshahariarhafizofficial)
     <img src="https://img.shields.io/github/followers/mdshahariarhafizofficial?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
-</a>
+</a> 
+
+-->
 
 <br>
 
