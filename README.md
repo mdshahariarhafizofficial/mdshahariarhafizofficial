@@ -1,7 +1,8 @@
 <!-- ![](https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&color=F59E0B&style=plastic&label=Profile+Views) -->
 
+<a href="https://github.com/mdshahariarhafizofficial">
 <img src="https://komarev.com/ghpvc/?username=mdshahariarhafizofficial&label=Profile+Views&color=F59E0B&style=flat-square" alt="Profile Views" />
-
+</a>
 <a href="https://github.com/mdshahariarhafizofficial">
     <img src="https://img.shields.io/github/followers/mdshahariarhafizofficial?label=follow&style=social" height="22" title="Follow me" alt="GitHub">
 </a>
