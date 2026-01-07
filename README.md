@@ -14,7 +14,7 @@
 
 <!-- DevCard Right Side -->
 <!-- <a href="https://app.daily.dev/mdshahariarhafizofficial"><img align="right" src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=puy" width="280" alt="Md. Shahariar Hafiz's Dev Card"/></a> -->
-<a href="https://app.daily.dev/mdshahariarhafizofficial"><img align="right" src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=xoj" width="280" alt="Md. Shahariar Hafiz's Dev Card"/></a>
+<a href="https://app.daily.dev/mdshahariarhafizofficial"><img align="right" src="https://api.daily.dev/devcards/v2/IXQGNp9js3DNgo0307NGO.png?type=default&r=3c1" width="280" alt="Md. Shahariar Hafiz's Dev Card"/></a>
 
 ### 💫About Me
 
