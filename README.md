@@ -18,7 +18,7 @@
 
 ### 💫About Me
 
-Hello! I’m Md. Shahariar Hafiz, a dedicated MERN Stack Developer with a passion for building modern,
+Hello! I’m Md. Shahariar Hafiz, a dedicated WordPress & Full-Stack Web Developer with a passion for building modern,
 scalable, and user-centric web applications.
 I believe in writing clean, maintainable code and creating digital experiences that truly make an impact.
 
